@@ -73,3 +73,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+![Steve Jobs](https://g.acdn.no/obscura/API/dynamic/r1/media/tr_2000_2000_s_f/0000/karmoy/images/78eee005-cef4-40d2-9c6a-2089f7492b27/78eee005-cef4-40d2-9c6a-2089f7492b27.jpg?chk=F1EA82)

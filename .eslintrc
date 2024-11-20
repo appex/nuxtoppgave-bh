@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "spellcheck/spell-checker": [
+      "warn",
+      {
+        "language": ["en", "nb"]
+      }
+    ]
+  }
+} 

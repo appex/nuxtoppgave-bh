@@ -1,4 +1,4 @@
-export interface brreg {
-  organizationNumber: string;
-  name: string;
+export interface BrregFirma {
+  organisasjonsnummer: string;
+  navn: string;
 }
